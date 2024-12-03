@@ -1,7 +1,7 @@
 # Quote Generator
 
 A project I did for fun to practice basic coding, it's a Python program that generates and displays random quotes.
-You can add your own quotes too!
+You can add your own quotes too.
 
 ## Features
 - Displays randomly selected quotes
