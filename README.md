@@ -1,6 +1,4 @@
-# quote_generator
-quote generator coding project using Perplexity as Coding Tudor
-# Random Quote Generator
+# Quote Generator
 
 A Python program that generates and displays random quotes.
 You can add your own quotes too!
